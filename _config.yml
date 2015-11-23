@@ -1,0 +1,31 @@
+# Site settings
+title: Blue Beagle LLC.
+email:
+description:
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://blue-beagle.com" # the base hostname & protocol for your site
+twitter_username:
+github_username:
+
+# Layout settings
+header_type: default  # values [ drawer, default ]
+post_type: highlight    # values [ highlight, default ]
+pagination_type: default  # values [ ops, default ]
+
+more_vert:
+  option1:
+    name:
+    link:
+  option2:
+    name:
+    link:
+  option3:
+    name:
+    link:
+
+disqus: false
+disqus_shortname: 'gdgmanagua'
+
+# Build settings
+markdown: kramdown
